@@ -1,0 +1,29 @@
+﻿  ShapeMeshes.cpp
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(548,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(1107,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(1666,11): warning C4101: 'v': unreferenced local variable
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(1666,8): warning C4101: 'u': unreferenced local variable
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(1943,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(2033,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(2034,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\3DShapes\ShapeMeshes.cpp(2124,20): warning C4018: '<': signed/unsigned mismatch
+  ShaderManager.cpp
+  MainCode.cpp
+  SceneManager.cpp
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(473,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(886,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(915,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(945,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1066,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  ViewManager.cpp
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(131,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(132,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(136,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(137,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(139,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(140,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(152,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(232,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\Admin\Downloads\CS330Content(1)\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
